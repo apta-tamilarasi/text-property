@@ -1,0 +1,68 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-size;
+}
+
+.color{
+	color:red;
+}
+
+.textalign{
+	text-align:center;
+}
+
+.decoration{
+	text-decoration:none;
+}
+
+.space{
+	word-spacing:30px;
+}
+
+.transform{
+	text-transform:uppercase;
+	
+}
+
+h2{
+	text-decoration-line:underline;
+	text-decoration-style:double;
+}
+
+.align{
+	text-align:justify;
+	width:50%;
+}
+
+.size{
+	font-size:20px;
+}
+
+.weight{
+	font-weight:bolder;
+}
+
+.family{
+	font-family:Lucida Handwriting;
+}
+
+.style{
+	font-style:italic;
+}
+
+.name{
+	color:blue;
+}
+
+.rgb{
+	color:rgb(250, 170, 150)
+}
+
+.rgba{
+	color:rgb(250, 170, 150, 0.5)
+}
+
+.code{
+	color:greenyellow;
+}
